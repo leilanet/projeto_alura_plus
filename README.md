@@ -1,6 +1,6 @@
 # Projeto feito no curso da Alura - Formação em Front-end (sem responsividade).
 
-![image](https://github.com/leilanet/projeto_alura_plus/blob/main/alura_plus_site.png)
+![image](https://github.com/leilanet/projeto_alura_plus/blob/main/assets/alura_plus_site.png)
 
 ## Ferramentas utilizadas:
 
